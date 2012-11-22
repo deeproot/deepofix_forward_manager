@@ -1,0 +1,8 @@
+{
+    "warn_days": "90",
+    "expiry_days": "100",
+    "excluded_users": [
+        "admin",
+        "test"
+    ]
+}
