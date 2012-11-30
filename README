@@ -1,1 +1,2 @@
-An simple tool to set password policy for your deepOfix mail server. Modify config/setting.yaml to suit your needs.
+An simple tool to fix autoresponder & mailforwarding clash bug on
+deepOfix. please run it as a service or in cron.

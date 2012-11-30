@@ -1,8 +1,6 @@
 {
-    "warn_days": "90",
-    "expiry_days": "100",
+    "easypush_password": "YOUR EASYPUSH PASSWORD",
     "excluded_users": [
-        "admin",
-        "test"
+        "admin"
     ]
 }
